@@ -1,0 +1,14 @@
+Welcome to the Text Editor Test File!
+This file is designed to test various functionalities of the text editor.
+The quick brown fox jumps over the lazy dog.
+
+Here are some repeated words: test, test, test.
+Now, let's test search functionality.
+Search for the word 'test' to see how many times it appears.
+
+This is line number 5.
+And this is line number 6.
+Search for 'line' to find these sentences.
+
+Special characters: !@#$%^&*()_+
+Numbers: 1234567890
