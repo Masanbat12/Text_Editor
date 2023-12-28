@@ -1,5 +1,6 @@
 # Text Editor in C
 This is an simple project, console-based text editor written in C. It allows basic text manipulation including opening, editing, saving, and searching within text files.
+#### Also there is an 2 test files to check the code. 
 
 ## Features
 ### Open a File: Load a text file for editing.
